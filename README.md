@@ -1,6 +1,6 @@
 # Bounce-NEAT
-Neural Evolution In Augmented Topologies implemented on a simple bounce game
-![](img/demo.gif)
+Neural Evolution In Augmented Topologies implemented on a simple bounce game.
+![](imgs/demo.gif)
 
 # Requirements
 You will need to install the python-neat library and pygame.
