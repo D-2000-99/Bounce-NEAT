@@ -1,3 +1,10 @@
+"""
+A minimalist bounce game using pygame. 
+
+Date Modified:  Nov 9, 2020
+Author: Deepak Haridas
+"""
+
 import pygame
 import neat
 import time
